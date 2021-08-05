@@ -1,5 +1,5 @@
 ![Tec de Monterrey](images/logotecmty.png)
-# Ejercicios Básicos!
+# Ejercicios Básicos-1!
 
 - 02 Área Triángulo
 - 03 Promedio Calificaciones
